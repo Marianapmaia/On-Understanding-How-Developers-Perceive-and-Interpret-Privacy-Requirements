@@ -151,6 +151,7 @@ OP2- What are the PCM-related complaints?
 OP3- Do you think PCM is scalable? Why not?
 
 Below we present the mapping of instruments in research questions.
+![Image](https://github.com/Marianapmaia/SupplementaryMaterial-PrivacyCriteriaMethod/blob/master/InstrumentsxRQ.png?raw=true)
 
 
 
